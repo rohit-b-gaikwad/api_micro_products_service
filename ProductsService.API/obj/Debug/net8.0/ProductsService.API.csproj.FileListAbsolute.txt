@@ -1,0 +1,316 @@
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\appsettings.Development.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\appsettings.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ProductsService.API.exe
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ProductsService.API.deps.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ProductsService.API.runtimeconfig.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ProductsService.API.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ProductsService.API.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\AutoMapper.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\FluentValidation.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\BusinessLogicLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\DataAccessLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\BusinessLogicLayer.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.csproj.AssemblyReference.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.AssemblyInfoInputs.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.AssemblyInfo.cs
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.csproj.CoreCompileInputs.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.MvcApplicationPartsAssemblyInfo.cs
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.MvcApplicationPartsAssemblyInfo.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets\msbuild.ProductsService.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductsService.API.props
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductsService.API.props
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductsService.API.props
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\scopedcss\bundle\ProductsService.API.styles.css
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\Products.A1440E90.Up2Date
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\refint\ProductsService.API.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.genruntimeconfig.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ref\ProductsService.API.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\appsettings.Development.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\appsettings.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ProductsService.API.exe
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ProductsService.API.deps.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ProductsService.API.runtimeconfig.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ProductsService.API.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ProductsService.API.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\AutoMapper.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\FluentValidation.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Google.Protobuf.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\MySql.Data.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ZstdSharp.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\BusinessLogicLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\DataAccessLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\BusinessLogicLayer.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.csproj.AssemblyReference.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.AssemblyInfoInputs.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.AssemblyInfo.cs
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.csproj.CoreCompileInputs.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.MvcApplicationPartsAssemblyInfo.cs
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.MvcApplicationPartsAssemblyInfo.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets\msbuild.ProductsService.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductsService.API.props
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductsService.API.props
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductsService.API.props
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\scopedcss\bundle\ProductsService.API.styles.css
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\Products.A1440E90.Up2Date
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\refint\ProductsService.API.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.genruntimeconfig.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ref\ProductsService.API.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Text.Json.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\appsettings.Development.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\appsettings.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ProductsService.API.exe
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ProductsService.API.deps.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ProductsService.API.runtimeconfig.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ProductsService.API.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ProductsService.API.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\AutoMapper.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\FluentValidation.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Google.Protobuf.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\MySql.Data.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Text.Json.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ZstdSharp.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\BusinessLogicLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\DataAccessLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\BusinessLogicLayer.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.csproj.AssemblyReference.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.AssemblyInfoInputs.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.AssemblyInfo.cs
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.csproj.CoreCompileInputs.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.MvcApplicationPartsAssemblyInfo.cs
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.MvcApplicationPartsAssemblyInfo.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets\msbuild.ProductsService.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductsService.API.props
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductsService.API.props
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductsService.API.props
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\scopedcss\bundle\ProductsService.API.styles.css
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\Products.A1440E90.Up2Date
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\refint\ProductsService.API.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.genruntimeconfig.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ref\ProductsService.API.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\appsettings.Development.json
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\appsettings.json
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ProductsService.API.exe
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ProductsService.API.deps.json
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ProductsService.API.runtimeconfig.json
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ProductsService.API.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ProductsService.API.pdb
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\AutoMapper.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\FluentValidation.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Google.Protobuf.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\MySql.Data.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Text.Json.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ZstdSharp.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\BusinessLogicLayer.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\DataAccessLayer.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\BusinessLogicLayer.pdb
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.csproj.AssemblyReference.cache
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.AssemblyInfoInputs.cache
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.AssemblyInfo.cs
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.csproj.CoreCompileInputs.cache
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.MvcApplicationPartsAssemblyInfo.cs
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.MvcApplicationPartsAssemblyInfo.cache
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets\msbuild.ProductsService.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductsService.API.props
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductsService.API.props
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductsService.API.props
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\scopedcss\bundle\ProductsService.API.styles.css
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\Products.A1440E90.Up2Date
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\refint\ProductsService.API.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.pdb
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.genruntimeconfig.cache
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ref\ProductsService.API.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\appsettings.Development.json
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\appsettings.json
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ProductsService.API.exe
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ProductsService.API.deps.json
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ProductsService.API.runtimeconfig.json
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ProductsService.API.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ProductsService.API.pdb
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\AutoMapper.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\FluentValidation.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Google.Protobuf.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\MySql.Data.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Text.Json.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\ZstdSharp.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\BusinessLogicLayer.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\DataAccessLayer.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\BusinessLogicLayer.pdb
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.csproj.AssemblyReference.cache
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.AssemblyInfoInputs.cache
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.AssemblyInfo.cs
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.csproj.CoreCompileInputs.cache
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.MvcApplicationPartsAssemblyInfo.cs
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.MvcApplicationPartsAssemblyInfo.cache
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets\msbuild.ProductsService.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductsService.API.props
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductsService.API.props
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductsService.API.props
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\scopedcss\bundle\ProductsService.API.styles.css
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\Products.A1440E90.Up2Date
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\refint\ProductsService.API.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.pdb
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ProductsService.API.genruntimeconfig.cache
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\ProductsService.API\obj\Debug\net8.0\ref\ProductsService.API.dll

@@ -1,0 +1,60 @@
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

@@ -1,0 +1,75 @@
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\Business.450209FB.Up2Date
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\Business.450209FB.Up2Date
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\Business.450209FB.Up2Date
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+D:\ProductsService Microservices .net\eCommerceSolution.ProductsService_Working\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\Business.450209FB.Up2Date
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+D:\ProductsService Microservices .net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\Business.450209FB.Up2Date
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+D:\ProductsService Microservices run solution angluar net\2.ProductsMicroService\eCommerceSolution.ProductsService\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
